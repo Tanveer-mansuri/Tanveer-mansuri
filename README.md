@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanveer-mansuri
-- 👀 ex Android Application Developer, currently working on React-Native.
+- 👀 Ex Android Application Developer, currently working on React-Native.
 - 
 <!---
 Tanveer-mansuri/Tanveer-mansuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
